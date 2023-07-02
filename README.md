@@ -4,6 +4,9 @@ Welcome to my GitHub profile.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+### Also known:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ## 🧮 Stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=timi992000&theme=blue-green)
